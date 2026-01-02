@@ -380,7 +380,7 @@
     margin-right:auto;
     }
     #marquee{
-    display:none;
+    display:block;
     
     }
     #login,
@@ -431,4 +431,5 @@
     display:none;
   }
 }
+
 
